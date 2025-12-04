@@ -303,6 +303,16 @@ body {
     gap: 16px;
 }
 
+.footer-logo {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+    text-transform: uppercase;
+}
+
 .logo-footer {
     font-family: Raleway;
     font-weight: 700;
